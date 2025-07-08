@@ -12,7 +12,7 @@ The use case simulates a real-world scenario where a financial analyst or bankin
 
 
 
-## Project Overview Professional Summary
+## Project Overview
 This project details how to securely connect to a PostgresSQL bank database using using SQLAlchemy, execute python functions to retrieve transactions based on user input, demonstrates basic python classes and error handling.
 The Jupyter Notebook (`Python_project_2.ipynb`) provides a step-by-step walkthrough of each component — including database connection, transaction retrieval, and class-based implementation — making the logic easy to follow and test.
 
@@ -40,4 +40,4 @@ The Jupyter Notebook (`Python_project_2.ipynb`) provides a step-by-step walkthro
 - 'get_monthly_transactions.py': transactions retrieval python function
 - 'my_bank_db.py': python class to retrieve transactions for a given date and plot the results
 - 'Python_project_2.ipynb': Jupyter note book to run and test the logic.
-- 'README.md': project ocerview
+- 'README.md': project overview
